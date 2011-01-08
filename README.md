@@ -99,7 +99,7 @@ We can also call
 Which, by default will do the exact same thing as before. We don't have to change a line of code to make this work. However, we could subclass `SF2DSprite`
 and create a custom shader with sweet effects. This is really easy to do and makes this framework super powerful.
 
-######Concepts
+#Concepts
 
 
 SpecialFusion is made of a Context, Scenes, Layers, and Objects. In general, you will have one context object (`SFContext`, `SF2DContext`), one or more scenes (`SFScene`), multiple layers (`SFLayer`), and multiple objects (`SFObject`, `SF2DSprite`, `SFAlphaSprite`).
