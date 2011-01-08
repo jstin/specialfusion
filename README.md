@@ -1,6 +1,6 @@
 ### Introducing Special Fusion (aka The Scenic Framework)
 
-For complete documentation see [click here](http://special-fusion.com/documentation).
+For complete documentation [click here](http://special-fusion.com/documentation).
 
 1. **OpenGL ES version agnostic**
 	1. The same code can be used with an OpenGL ES 2.x or 1.x context. This means that you can target both versions
